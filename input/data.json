@@ -1,0 +1,17 @@
+{
+    "transactions":[
+        {
+            "step":"685",
+            "type":"CASH_OUT",
+            "amount":"47061.52",
+            "nameOrig":"C1390208933",
+            "oldbalanceOrg":"47061.52",
+            "newbalanceOrig":"0.0",
+            "nameDest":"C72626966",
+            "oldbalanceDest":"372871.76",
+            "newbalanceDest":"419933.28",
+            "isFraud":"1",
+            "isFlaggedFraud":"0"
+        }
+    ]
+}
